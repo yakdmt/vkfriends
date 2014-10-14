@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Vkfriends</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="please_enter">Please enter the correct integer id!</string>
+    <string name="no_user_found">No user found!</string>
+</resources>
